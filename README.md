@@ -1,2 +1,2 @@
-# Sportsnet
-Tienda de deportes, proyecto escolar
+# sportsnet
+Tienda de deportes en línea 
